@@ -52,7 +52,7 @@ The executable requires the accompanying data files to remain within the provide
 
 ## Post-Submission Updates
 
-> **Repository Note:** The project was originally submitted in **[April 2025]**. This GitHub repository was updated in **[September 2026]**.
+> **Repository Note:** The project was originally submitted in **April 2025**. This GitHub repository was updated in **September 2026**.
 >
 > Post-submission commits relate to documentation and presentation of the project. These updates do not modify the application submitted for assessment.
 
